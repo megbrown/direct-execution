@@ -1,0 +1,1 @@
+console.log("Hello, World. I was executed without the 'node' command!");
